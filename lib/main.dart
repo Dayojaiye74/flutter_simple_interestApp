@@ -6,8 +6,8 @@ void main() => runApp(
         debugShowCheckedModeBanner: false,
         title: 'Simple Interest Demo',
         theme: ThemeData(
-            primaryColor: Colors.blue,
-            accentColor: Colors.blueAccent,
+            primaryColor: Colors.red,
+            accentColor: Colors.redAccent,
             brightness: Brightness.dark),
         home: SIForm(),
       ),
